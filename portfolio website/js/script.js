@@ -33,4 +33,6 @@ document.querySelectorAll('a').forEach(links =>{
         cursor2.classList.remove('active');
     }
 
+    
+
 });
